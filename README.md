@@ -22,7 +22,7 @@ To set up the Student Score Prediction project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/linear_regression.git
+   git clone https://github.com/lutheralien/linear_regression.git
    cd linear_regression
    ```
 
